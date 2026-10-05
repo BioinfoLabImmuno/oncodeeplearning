@@ -1,7 +1,7 @@
 ## Hi there, I'm oncodeeplearning 👋
 
-[![Email](https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge)](https://www.linkedin.com/in/YOUR-PROFILE/)
+[![Email](https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge)]()
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge)]()
 
 - 🔬 I'm currently working on Biostatistics, Machine Learning, and Translational Oncology
 - 📊 Interested in Bayesian Statistics and Statistical Modeling
